@@ -1,0 +1,104 @@
+[]
+01
+The Godfather
+Crime
+1972
+Francis Ford Coppola
+Marlon Brando
+Al Pacino
+James Caan
+Michael, the young and idealistic son of Vito Corleone, the head of the most powerful Mafia clan in New York,
+ returns home as a war hero and is determined to live his own life.
+ However tragic circumstances make him face the legacy of his family.
+Godfather.png
+[]
+02
+Schindler's List
+Biography
+1993
+Steven Spielberg
+Liam Neeson
+Ben Kingsley
+Ralph Fiennes
+Oskar Schindler is a vain and greedy German businessman who becomes an unlikely humanitarian amid the barbaric 
+German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler
+who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us.
+List.png
+[]
+03
+Forrest Gump
+Drama
+1994
+Robert Zemeckis
+Tom Hanks
+Robin Wright
+Gary Sinise
+Slow-witted Forrest Gump has never thought of himself as disadvantaged, and thanks to his supportive mother, he leads anything but a restricted life.
+Whether dominating on the gridiron as a college football star, fighting in Vietnam or captaining a shrimp boat, Forrest inspires
+ people with his childlike optimism. But one person Forrest cares about most may be the most difficult to save -- his childhood love, the sweet but troubled Jenny.
+Forrest.png
+[]
+04
+The Good, the Bad and the Ugly
+Western
+1966
+Sergio Leone
+Clint Eastwood
+Eli Wallach
+Lee Van Cleef
+Three different men of three different temperaments and tastes get involved in a long and adventure-filled battle in order to find a fortune in gold. While the
+ first man, an ex-bounty hunter and a forgiving person, knows the name of the cemetery in which the gold is buried, the second, a fast-tempered greedy man,
+ knows the name on the grave. But the third person, a cruel, cold-blooded murderer, knows none, so he must reach the gold in his own way of finding something.
+GBU.png
+[]
+05
+The Big Lebowski
+Comedy
+1998
+Coen Brothers
+Jeff Bridges
+John Goodman
+Julianne Moore
+When "the dude" Lebowski is mistaken for a millionaire Lebowski, two thugs urinate on his rug to coerce him into paying a debt he knows nothing about.
+ While attempting to gain recompense for the ruined rug from his wealthy counterpart, he accepts a one-time job with high pay-off.
+ He enlists the help of his bowling buddy, Walter. Deception leads to more trouble, and it soon seems that everyone wants something from The Dude.
+Lebowski.png
+[]
+06
+Dead Poets Society
+Drama
+1989
+Peter Weir
+Robin Williams
+Robert Sean Leonard
+Ethan Hawke
+A new English teacher, John Keating, is introduced to an all-boys preparatory school that is known for its ancient traditions and high standards. 
+He uses unorthodox methods to reach out to his students, who face enormous pressures from their parents and the school.
+With Keating's help, students Neil Perry, Todd Anderson and others learn to break out of their shells, pursue their dreams and seize the day.
+Society.png
+[]
+07
+Catch Me If You Can
+Biography
+2002
+Steven Spielberg
+Leonardo DiCaprio
+Tom Hanks
+Cristopher Walken
+A true story about Frank Abagnale Jr. who, before his 19th birthday,
+successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. 
+An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.
+Catch.png
+[]
+08
+Parasite
+Crime
+2019
+Bong Joon Ho
+Song Kang-ho
+Lee Sun-kyun
+Cho Yeo-jeong
+After his rich friend asks him to fake qualifications and take his tutor role to a rich teenage girl so none will try to date her in his absence, 
+the poor lead takes up the offer & enters the rich yet gullible family. He then cons his way into the family, dates his friend's crush & schemes to get all 
+his family get a job under the family. When the owners leave the house on vacation they move in & undergo a bizarre encounter which changes the lives of everyone.
+Parasite.png
